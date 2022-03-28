@@ -19,5 +19,6 @@ public class TwoSum {
 		int target = 4; 
 		System.out.println(solution(ages, target)); 
 	}
-}
+} 
+
 
